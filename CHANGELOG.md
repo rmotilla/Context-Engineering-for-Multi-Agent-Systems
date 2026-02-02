@@ -5,9 +5,23 @@ This changelog contains notable updates (past, present, and upcoming) to the **C
 
 ## [February 2, 2026]
 
-Download path tweaked during Quality Control.        
-Software Evolution Timeline verified:
+1.Download path tweaked during Quality Control.        
+
+2.Software Evolution Timeline verified:
 [**🛰️ View Software Evolution Timeline**](https://denis2054.github.io/Context-Engineering-for-Multi-Agent-Systems/media/index.html)
+
+3. Live event announcement:
+
+<hr>
+<p align="center">
+  <strong>📣 Upcoming Free Live Event — February 2026</strong><br>
+  Join the live LinkedIn session on Context Engineering and Multi‑Agent Systems.<br>
+  <a href="https://www.linkedin.com/posts/denis-rothman_ai-agenticera-contextengineering-activity-7424026873652850688-eXw8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkgWIQBjSA0tmThRb2WkI7foehq89Q4-nA">
+    👉 Click here to view the event on LinkedIn
+  </a>
+</p>
+<hr>
+
 
 ## [January 25, 2026]
 
