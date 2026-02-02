@@ -10,7 +10,7 @@ This changelog contains notable updates (past, present, and upcoming) to the **C
 2.Software Evolution Timeline verified:
 [**🛰️ View Software Evolution Timeline**](https://denis2054.github.io/Context-Engineering-for-Multi-Agent-Systems/media/index.html)
 
-3. Live event announcement:
+3.Live event announcement:
 
 <hr>
 <p align="center">
