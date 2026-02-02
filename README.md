@@ -72,7 +72,6 @@ By the end of this book, you’ll be equipped with the skills needed to engineer
   </details>
 
 <hr>
-
 <p align="center">
   <img width="600" alt="Workshop Banner" src="./media/workshop.png" />
 </p>
@@ -80,9 +79,18 @@ By the end of this book, you’ll be equipped with the skills needed to engineer
   <strong>✨ Workshop Completed — January 2026</strong><br>
   Thank you to everyone who participated in the Context Engineering workshop.
 </p>
+<hr>
 
+<p align="center">
+  <strong>📣 Upcoming Live Event — February 2026</strong><br>
+  Join the live LinkedIn session on Context Engineering and Multi‑Agent Systems.<br>
+  <a href="https://www.linkedin.com/posts/denis-rothman_ai-agenticera-contextengineering-activity-7424026873652850688-eXw8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkgWIQBjSA0tmThRb2WkI7foehq89Q4-nA">
+    👉 Click here to view the event on LinkedIn
+  </a>
+</p>
 
 <hr>
+
 
 
 <details open> 
