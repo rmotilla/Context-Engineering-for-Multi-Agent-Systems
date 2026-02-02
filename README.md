@@ -89,7 +89,7 @@ By the end of this book, you’ll be equipped with the skills needed to engineer
   </a>
 </p>
 <hr>
-
+<!-- ===== Event Completed — Replay Available on LinkedIn ===== -->
 
 
 <details open> 
