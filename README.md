@@ -243,8 +243,6 @@ We welcome contributions! High interaction through Issues, PRs, and Comments hel
 1.  **Check Issues:** Look for the [**good first issue**](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) label for approachable tasks.
 2.  **Discussions:** Join our [**Discussions tab**](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems/discussions) to propose new features or "Context Chaining" techniques.
 3.  **Pull Requests:** Submit improvements to the core `engine.py` or new specialized agents in `agents.py`.
-\```
-
  
 </ul>
 
