@@ -1,7 +1,14 @@
 # Context Engineering for Multi-Agent Systems, First Edition
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<p align="center"><i>In 21st century AI, LLMs are the agents, and the MAS is the environment they operate in.</i></p>
+<img src="./Chapter10/universal_context_engine.png" alt="Universal Context Engine Blueprint" width="40%" align="left" style="margin-right: 20px;">
+
+**In 21st century AI, LLMs are the agents, and the MAS is the environment they operate in.**
+
+This repository provides a production-ready blueprint for the Agentic Era, allowing you to replace rigid, hard-coded workflows with a dynamic, transparent Context Engine. By building universal, domain-agnostic Multi-Agent Systems through high-level semantic orchestration, you can save thousands of lines of code while maintaining 100% observability.
+
+<br clear="left"/>
+
 <p align="center">Copyright 2025-26, Denis Rothman. Last updated: February 2, 2026</p>
 <p align="center">See the <a href="./CHANGELOG.md">Changelog</a> for updates, fixes, and upgrades(past, present, coming).</p>
 
