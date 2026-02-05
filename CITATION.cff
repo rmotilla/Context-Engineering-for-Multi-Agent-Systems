@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software or the concepts from the book, please cite it as follows."
+
+authors:
+  - family-names: "Rothman"
+    given-names: "Denis"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Replace with actual ORCID if available
+
+title: "Context Engineering for Multi-Agent Systems"
+version: "1.0.0"
+date-released: "2026-02-05"
+
+url: "https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems"
+repository-code: "https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems"
+
+keywords:
+  - "context-engineering"
+  - "multi-agent-systems"
+  - "model-context-protocol"
+  - "agentic-rag"
+  - "universal-context-engine"
+
+abstract: >-
+  A production-ready framework for building domain-agnostic Multi-Agent Systems (MAS).
+  This repository implements a Glass-Box Context Engine architecture using the ModelContext Protocol (MCP)
+  to ensure transparent, verifiable, and sovereign AI workflows.
+
+preferred-citation:
+  type: book
+  authors:
+    - family-names: "Rothman"
+      given-names: "Denis"
+  title: "Context Engineering for Multi-Agent Systems: Build transparent MAS architecture with semantic blueprints, MCP, and RAG"
+  publisher: "Packt Publishing"
+  year: 2025
+  edition: "First Edition"
+  isbn: "9781806690046"
