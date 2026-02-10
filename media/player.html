@@ -1,46 +1,44 @@
-<style>
-    body { 
-        background-color: #0d1117; 
-        display: flex; 
-        flex-direction: column; 
-        align-items: center; 
-        justify-content: center; 
-        min-height: 100vh; 
-        margin: 0; 
-        color: #c9d1d9; 
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
-    }
-    
-    .video-container {
-        width: 85%;
-        max-width: 1000px;
-        position: relative;
-    }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Agentic AI Framework Player</title>
+    <style>
+        body { 
+            background-color: #0d1117; 
+            margin: 0; 
+            padding: 40px 20px;
+            color: #c9d1d9; 
+            font-family: sans-serif; 
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        video { 
+            width: 100%; 
+            max-width: 900px; 
+            border: 1px solid #30363d; 
+            border-radius: 8px; 
+            background: #000; /* Shows black box while loading */
+        }
+        .text { 
+            margin-top: 30px; 
+            font-weight: bold; 
+            text-align: center; 
+            max-width: 700px; 
+        }
+    </style>
+</head>
+<body>
 
-    video { 
-        width: 100%; 
-        border: 1px solid #30363d; 
-        border-radius: 8px; 
-        box-shadow: 0 8px 24px rgba(0,0,0,0.5); 
-    }
+    <video controls autoplay>
+        <source src="Natural language as program_ the agentic AI framework.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 
-    /* This hides the transcript/track area if the browser is trying to render it as text */
-    video::cue {
-        background: rgba(0,0,0,0.8);
-        color: white;
-    }
+    <div class="text">
+        In 21st‑century Agentic AI, Natural‑Language‑Programmed LLMs are the agents, and the domain‑agnostic dual‑RAG MAS is the environment they operate in.
+    </div>
 
-    .text { 
-        margin-top: 24px; 
-        font-weight: bold; 
-        text-align: center; 
-        max-width: 700px; 
-        line-height: 1.5; 
-        padding: 0 20px; 
-    }
-
-    /* Ensures no extra scrollbars or giant frames appear */
-    iframe, .streamyard-transcript-box { 
-        display: none !important; 
-    }
-</style>
+</body>
+</html>
