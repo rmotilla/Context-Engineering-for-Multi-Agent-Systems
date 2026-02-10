@@ -81,14 +81,7 @@ By the end of this book, you’ll be equipped with the skills needed to engineer
 </ul>
   </details>
 
-<hr>
-<p align="center">
-  <img width="600" alt="Workshop Banner" src="./media/workshop.png" />
-</p>
-<p align="center">
-  <strong>✨ Workshop Completed — January 2026</strong><br>
-  Thank you to everyone who participated in the Context Engineering workshop.
-</p>
+
 
 
 ## 🎥 Deep Dive: Architecture → Context → Agents → Code
