@@ -3,6 +3,11 @@
 This changelog contains notable updates (past, present, and upcoming) to the **Context Engineering for Multi-Agent Systems** repository.   
 🐬 Indicates *new bonus notebooks* to explore. 
 
+## [February 10, 2026]
+
+Upgraded the README with state-of-the art approaches to be educational bridge between the book, *Context Engineering for Multi-Agent Systems* that containts the architecture and code 
+and the hands-on repository.
+
 ## [February 5, 2026]
 
 **README UPDATE**
