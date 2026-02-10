@@ -62,7 +62,7 @@ By the end of this book, you’ll be equipped with the skills needed to engineer
 <li><strong>Glass Box Architecture:</strong> Provides 100% observability into agent reasoning through interactive trace dashboards and detailed execution logs.</li>
 <li><strong>Universal Context Engine:</strong> A domain-agnostic core that runs cross-domain use cases (e.g., Legal and Marketing) without changing a single line of code.</li>
 <li><strong>High-Fidelity RAG:</strong> Implements research agents with automated input sanitization and source-verifiable citations to ensure accuracy and defense.</li>
-<li><strong> Telemetry‑driven context layers</strong> enabling continuous ingestion and structuring of environmental signals that form the dynamic operational context for multi‑agent reasoning.</li>
+<li><strong> Telemetry‑driven context layers:</strong> Continuous ingestion and structuring of environmental signals that form the dynamic operational context for multi‑agent reasoning.</li>
 <li><strong>Protocol-Driven:</strong> Orchestrates specialized agents using the Model Context Protocol (MCP) for seamless, modular multi-agent workflows.</li>
 <li><strong>Token & Cost Analytics:</strong> Integrated tracking of input/output tokens to monitor cost-efficiency and model verbosity at every step.</li>
 </ul>
